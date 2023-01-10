@@ -12,4 +12,4 @@ Features:
 
 You can contact us by the following email:
 
-***ryusnes@outlook.com***
+ryusnes@outlook.com
