@@ -9,3 +9,7 @@ Features:
 4. The built-in player and system player can be switched quickly.
 5. The player supports picture in picture and the opening and closing of AirPlay.
 6. Support quick use of search engine switching.
+
+You can contact us by the following email:
+
+***ryusnes@outlook.com***
