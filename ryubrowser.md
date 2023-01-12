@@ -12,4 +12,4 @@ Features:
 
 You can contact us by the following email:
 
-gugu_browser@139.com
+ryudev@139.com
