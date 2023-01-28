@@ -8,8 +8,11 @@
 <body>
   It's me!
   <script>
-    var text = prompt("input your name", "name");
-    window.confirm(text);
+    if (confirm("你确定要关闭页面吗？")) {
+      window.opener = null; 
+      window.open('', '_self'); 
+      window.close() 
+    }
   </script>
 </body>
 </html>
