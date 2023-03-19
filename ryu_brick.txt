@@ -1,0 +1,14 @@
+In this game, blocks of various shapes randomly appear on the top of the game interface and move down at a certain speed. Players need to control the falling speed and rotation direction of the cube, so that the cube falls on the blank position at the bottom of the game interface, forming a complete line or multiple lines, and then they can score.
+
+The shapes of cubes in the cube park are more diverse, including squares, rectangles, triangles, pentagons and other shapes of cubes, which require players to use their brains.
+
+Game Features:
+
+Diverse block shapes and colors make the game more interesting;
+
+Simple and easy-to-understand operation methods allow players to get started easily;
+
+The game interface is simple and fresh, and the sound effects are beautiful and pleasant, allowing players to experience a pleasant gaming experience.
+Download Block Paradise, challenge your reflexes and wits, and become a block master!
+
+contact: ryudev@139.com
