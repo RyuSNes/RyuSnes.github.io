@@ -1,8 +1,8 @@
 Ryu Browser - pure, simple and fast browser.
 
-We are committed to providing the best browsing experience for our users. Ryu Browser is an ad-free browser that allows you to focus on your content and browse without interruptions.
+We are committed to providing the best browsing experience for our users. Ryu Browser is a browser that allows you to focus on your content and browse without interruptions. 
 
-Our interface is simple and unfancy, allowing you to focus more on browsing the content instead of being distracted by the fancy interface.
+Our interface is simple and unfancy, allowing you to focus more on browsing the content instead of being distracted by the fancy interface. 
 
 At the same time, our functions have been carefully designed and perfected to allow you to complete browsing tasks more conveniently.
 
