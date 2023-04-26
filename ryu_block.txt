@@ -1,0 +1,11 @@
+Ryu Block is a puzzle game that releases stress and encourages you to brainstorm solutions.
+
+The game has no time limit, and you can fully enjoy the fun of thinking and obtain great satisfaction by solving problems.
+
+The rules of the game are to prevent various shapes from being placed on the panel and ensure that there is always a place on the panel to place them.
+
+If a row or column is filled, elimination will occur.
+
+Please make sure to have fun, we will constantly update the game to add more fun.
+
+contact: ryudev@139.com
