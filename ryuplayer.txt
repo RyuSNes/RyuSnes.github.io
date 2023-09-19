@@ -1,0 +1,19 @@
+Ryu Player is a local player designed specifically for movie enthusiasts, video enthusiasts, youtube, and video authors to take notes in videos.
+
+It pioneered the feature of taking notes in videos, making it the world's first professional player+note taking tool.
+
+Ryu Player can add notes at any time node and allow you to jump to any time point that has already been recorded.
+
+Film and TV series enthusiasts can use Ryu Player to record key events in movies and analyze the plot at a certain time point. And you can review the recorded notes at any time, jump to the playback time through the notes, and revisit the parts of interest.
+
+Similarly, sports enthusiasts and related professionals can review the details of the competition by taking notes in the competition video.
+
+Professional self media professionals in the field of film and television analysis can organize their ideas through video notes.
+
+Video learners can take notes within the video course and record summaries and insights in important locations.
+
+As a local player, Ryu Player is also excellent enough, as it supports long press acceleration and real-time preview of video frames when dragging the progress bar.
+
+Ryu Player is completely free.
+
+Welcome to leave a message below to provide your suggestions, or contact us via the following email: ryudev@139.com
