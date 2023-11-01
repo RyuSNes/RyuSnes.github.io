@@ -1,0 +1,9 @@
+This is a nostalgic pixel style skiing game. You will play the role of a skier, skiing on endless snow, avoiding obstacles along the way and scoring points by touching small flags.
+
+
+
+In the game, you are provided with four buttons, two for turning left and two for turning back, each with different degrees of rotation.
+
+
+
+You need to rely on exquisite skills to accumulate as many points as possible in each level, with each level lasting only 30 seconds. As levels increase, the difficulty will increase. Please challenge the total score to have fun.
