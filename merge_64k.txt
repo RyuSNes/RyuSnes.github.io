@@ -1,4 +1,4 @@
-《Merge Stamp Puzzle》— Reimagining the Digital Drop Frenzy!
+《64K - Merge Stamp Puzzle》— Reimagining the Digital Drop Frenzy!
 
 When 2048 meets Tetris, a physics-powered storm erupts at your fingertips!
 Harness strategy and reflexes to create endless chain miracles in this dynamic falling-number frenzy!
@@ -18,3 +18,5 @@ Developer's Note​
 "This isn't just numbers—it's mental gymnastics testing spatial IQ and split-second decisions. Can you conquer the ultimate 30-combo achievement?"
 
 Download Now​ to ignite the carnival where gravity meets genius!
+
+contact: ryudev@139.com
